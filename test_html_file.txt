@@ -1,0 +1,9 @@
+NAME,FIRSTREF,FIRSTURL
+WASP-14 b,Joshi 2009,http://adsabs.harvard.edu/abs/2009MNRAS.392.1532J
+Kepler-50 b,Borucki 2011,http://adsabs.harvard.edu/abs/2011ApJ...736...19B
+NN Ser d,Beuermann 2010,http://adsabs.harvard.edu/abs/2010A%26A...521L..60B
+Kepler-20 b,Borucki 2011,http://adsabs.harvard.edu/abs/2011ApJ...736...19B
+HAT-P-27 b,Anderson 2011,http://adsabs.harvard.edu/abs/2011PASP..123..555A
+HD 116029 b,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 219828 b,Melo 2007,http://adsabs.harvard.edu/abs/2007A%26A...467..721M
+Kepler-11 c,Lissauer 2011,http://adsabs.harvard.edu/abs/2011Natur.470...53L
